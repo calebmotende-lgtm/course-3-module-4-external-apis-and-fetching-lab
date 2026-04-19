@@ -1,6 +1,21 @@
 
 # Lab: External APIs and Fetching
 
+# ASSIGNMENT SUBMISSION
+
+# Weather Alerts App - Lab Submission
+
+I have completed the External APIs and Fetching lab. The application successfully fetches active weather alerts from the National Weather Service API and displays them to the user.
+
+## Completed Tasks
+* **Task 1:** Defined project needs and UI structure.
+* **Task 2:** Implemented the `fetch()` API to retrieve data from `api.weather.gov`.
+* **Task 3:** Implemented dynamic DOM updates to display alert headlines.
+* **Task 4:** Added error handling for invalid state codes and network issues.
+
+## Testing Status
+All automated tests passed successfully (5/5).
+
 ## Introduction
 
 You’ve just joined the front-end development team of a national safety awareness 
